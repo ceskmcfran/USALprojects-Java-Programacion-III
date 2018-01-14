@@ -1,4 +1,4 @@
-# javaUSALproyects
+# USALproyects-Java-Programacion-III
 USAL java practices of **PROGRAMACION III**
 
 Projects for POO java subject.
