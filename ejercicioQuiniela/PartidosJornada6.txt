@@ -1,0 +1,15 @@
+PSG          -         MALMO
+R.MADRID     -      SHAKHTAR
+WOLFSBURG    -       CSKA M.
+PSV          -    MAN.UNITED
+GALATASARAY  -     AT.MADRID
+BENFICA      -        ASTANA
+SEVILLA      -   BORUSSIA M.
+B.LEVERKUSEN -  BATE BORISOV
+ROMA         -     BARCELONA
+DINAMO Z     -       ARSENAL
+OLYMPIAKOS   -      B.MUNICH
+DYNAMO K     -         PORTO
+VALENCIA     -      ZENIT SP
+GENT         -       OL.LYON
+MAN.CITY     -      JUVENTUS
