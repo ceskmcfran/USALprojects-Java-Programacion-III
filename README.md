@@ -1,14 +1,14 @@
 # javaUSALproyects
-USAL java practices of "PROGRAMACION III"
+USAL java practices of **PROGRAMACION III**
 
 Projects for POO java subject.
 
-#Download
-Open your git directory and type 'git clone https://github.com/ceskmcfran/javaUSALproyects.git'
+# Download
+Open your git directory and type `git clone https://github.com/ceskmcfran/javaUSALproyects.git`
 
 Open the projects with NETBEANS IDE
 
-#Projects
+# Projects
   *  almacenDeportivo
   *  ejercicioQuiniela
   *  almacenVinos
